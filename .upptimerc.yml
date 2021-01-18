@@ -4,8 +4,10 @@ repo: upptime # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: onekey
+  - name: www.onekey.so
     url: https://www.onekey.so
+  - name: eth1.onekey.so
+    url: https://eth1.onekey.so    
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
