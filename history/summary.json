@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.onekey.so",
     "slug": "www-onekey-so",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "98.60%",
     "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
-    "time": 1017,
-    "timeDay": 932,
-    "timeWeek": 1048,
-    "timeMonth": 1017,
-    "timeYear": 1017,
+    "uptimeMonth": "99.84%",
+    "uptimeYear": "99.84%",
+    "time": 1016,
+    "timeDay": 905,
+    "timeWeek": 1021,
+    "timeMonth": 1016,
+    "timeYear": 1016,
     "dailyMinutesDown": {
       "2021-01-26": 20
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 915,
-    "timeDay": 913,
-    "timeWeek": 920,
-    "timeMonth": 915,
-    "timeYear": 915,
+    "time": 914,
+    "timeDay": 901,
+    "timeWeek": 883,
+    "timeMonth": 914,
+    "timeYear": 914,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 796,
-    "timeDay": 678,
-    "timeWeek": 796,
-    "timeMonth": 796,
-    "timeYear": 796,
+    "time": 749,
+    "timeDay": 656,
+    "timeWeek": 749,
+    "timeMonth": 749,
+    "timeYear": 749,
     "dailyMinutesDown": {}
   }
 ]
