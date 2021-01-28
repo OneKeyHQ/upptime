@@ -10,6 +10,8 @@ sites:
     url: https://eth1.onekey.so    
   - name: heco1.onekey.so
     url: https://heco1.onekey.so/ 
+  - name: bsc1.onekey.so
+    url: https://bsc1.onekey.so/     
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
