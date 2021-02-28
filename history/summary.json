@@ -4,18 +4,19 @@
     "url": "https://www.onekey.so",
     "icon": "https://favicons.githubusercontent.com/www.onekey.so",
     "slug": "www-onekey-so",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.83%",
     "time": 1080,
     "timeDay": 1124,
     "timeWeek": 1071,
-    "timeMonth": 1108,
+    "timeMonth": 1109,
     "timeYear": 1080,
     "dailyMinutesDown": {
+      "2021-02-28": 0,
       "2021-02-01": 79,
       "2021-01-26": 20
     }
@@ -34,7 +35,7 @@
     "time": 906,
     "timeDay": 861,
     "timeWeek": 886,
-    "timeMonth": 905,
+    "timeMonth": 907,
     "timeYear": 906,
     "dailyMinutesDown": {}
   },
@@ -52,7 +53,7 @@
     "time": 688,
     "timeDay": 716,
     "timeWeek": 680,
-    "timeMonth": 686,
+    "timeMonth": 687,
     "timeYear": 688,
     "dailyMinutesDown": {}
   },
@@ -70,7 +71,7 @@
     "time": 690,
     "timeDay": 666,
     "timeWeek": 656,
-    "timeMonth": 690,
+    "timeMonth": 692,
     "timeYear": 690,
     "dailyMinutesDown": {
       "2021-02-07": 102
@@ -81,9 +82,9 @@
     "url": "https://data.onekey.so/version.json",
     "icon": "https://favicons.githubusercontent.com/data.onekey.so",
     "slug": "data-onekey-so",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +93,8 @@
     "timeWeek": 651,
     "timeMonth": 682,
     "timeYear": 682,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-28": 0
+    }
   }
 ]
