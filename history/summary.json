@@ -27,9 +27,9 @@
     "url": "https://eth1.onekey.so",
     "icon": "https://favicons.githubusercontent.com/eth1.onekey.so",
     "slug": "eth1-onekey-so",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -38,7 +38,9 @@
     "timeWeek": 908,
     "timeMonth": 910,
     "timeYear": 906,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-18": 0
+    }
   },
   {
     "name": "heco1.onekey.so",
@@ -64,11 +66,11 @@
     "icon": "https://favicons.githubusercontent.com/bsc1.onekey.so",
     "slug": "bsc1-onekey-so",
     "status": "up",
-    "uptime": "99.85%",
+    "uptime": "99.86%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
+    "uptimeYear": "99.86%",
     "time": 694,
     "timeDay": 685,
     "timeWeek": 695,
