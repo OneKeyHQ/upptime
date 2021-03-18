@@ -27,19 +27,19 @@
     "url": "https://eth1.onekey.so",
     "icon": "https://favicons.githubusercontent.com/eth1.onekey.so",
     "slug": "eth1-onekey-so",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 906,
-    "timeDay": 960,
-    "timeWeek": 908,
-    "timeMonth": 910,
-    "timeYear": 906,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.44%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.99%",
+    "time": 905,
+    "timeDay": 900,
+    "timeWeek": 899,
+    "timeMonth": 907,
+    "timeYear": 905,
     "dailyMinutesDown": {
-      "2021-03-18": 0
+      "2021-03-18": 8
     }
   },
   {
