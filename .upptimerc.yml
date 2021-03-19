@@ -11,7 +11,9 @@ sites:
   - name: heco1.onekey.so
     url: https://heco1.onekey.so/ 
   - name: bsc1.onekey.so
-    url: https://bsc1.onekey.so/     
+    url: https://bsc1.onekey.so/  
+  - name: testnode.onekey.so
+    url: https://testnode.onekey.so/      
   - name: data.onekey.so
     url: https://data.onekey.so/version.json
 
