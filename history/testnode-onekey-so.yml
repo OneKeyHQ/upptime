@@ -1,7 +1,7 @@
 url: https://testnode.onekey.so/
-status: up
-code: 200
-responseTime: 834
-lastUpdated: 2021-04-07T23:24:40.250Z
+status: down
+code: 502
+responseTime: 830
+lastUpdated: 2021-04-08T03:39:24.356Z
 startTime: Fri Mar 19 2021 03:10:18 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
