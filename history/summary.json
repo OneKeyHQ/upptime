@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 1097,
-    "timeDay": 1278,
-    "timeWeek": 1247,
-    "timeMonth": 1138,
+    "timeDay": 1118,
+    "timeWeek": 1229,
+    "timeMonth": 1142,
     "timeYear": 1097,
     "dailyMinutesDown": {
       "2021-03-15": 25,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 856,
-    "timeDay": 704,
-    "timeWeek": 660,
-    "timeMonth": 759,
-    "timeYear": 856,
+    "time": 854,
+    "timeDay": 623,
+    "timeWeek": 658,
+    "timeMonth": 746,
+    "timeYear": 854,
     "dailyMinutesDown": {
       "2021-03-18": 30
     }
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 679,
-    "timeDay": 680,
+    "time": 678,
+    "timeDay": 606,
     "timeWeek": 652,
-    "timeMonth": 658,
-    "timeYear": 679,
+    "timeMonth": 651,
+    "timeYear": 678,
     "dailyMinutesDown": {}
   },
   {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 689,
-    "timeDay": 722,
-    "timeWeek": 714,
-    "timeMonth": 683,
+    "timeDay": 648,
+    "timeWeek": 695,
+    "timeMonth": 682,
     "timeYear": 689,
     "dailyMinutesDown": {
       "2021-02-07": 102
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 749,
-    "timeDay": 671,
-    "timeWeek": 681,
-    "timeMonth": 708,
-    "timeYear": 749,
+    "time": 747,
+    "timeDay": 659,
+    "timeWeek": 637,
+    "timeMonth": 691,
+    "timeYear": 747,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
-    "time": 667,
-    "timeDay": 711,
-    "timeWeek": 666,
-    "timeMonth": 651,
-    "timeYear": 667,
+    "time": 666,
+    "timeDay": 631,
+    "timeWeek": 667,
+    "timeMonth": 646,
+    "timeYear": 666,
     "dailyMinutesDown": {
       "2021-02-28": 159
     }
