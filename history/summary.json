@@ -65,17 +65,17 @@
     "url": "https://bsc1.onekey.so/",
     "icon": "https://favicons.githubusercontent.com/bsc1.onekey.so",
     "slug": "bsc1-onekey-so",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 764,
-    "timeDay": 1125,
+    "time": 768,
+    "timeDay": 1128,
     "timeWeek": 1156,
-    "timeMonth": 883,
-    "timeYear": 764,
+    "timeMonth": 888,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2021-02-07": 102
     }
