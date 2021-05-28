@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1120,
-    "timeDay": 1192,
+    "time": 1121,
+    "timeDay": 1212,
     "timeWeek": 1257,
-    "timeMonth": 1209,
-    "timeYear": 1120,
+    "timeMonth": 1208,
+    "timeYear": 1121,
     "dailyMinutesDown": {
       "2021-03-15": 25,
       "2021-02-28": 159,
@@ -33,11 +33,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 822,
-    "timeDay": 593,
-    "timeWeek": 716,
+    "time": 820,
+    "timeDay": 637,
+    "timeWeek": 720,
     "timeMonth": 675,
-    "timeYear": 822,
+    "timeYear": 820,
     "dailyMinutesDown": {
       "2021-03-18": 30
     }
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 678,
-    "timeDay": 596,
+    "timeDay": 599,
     "timeWeek": 670,
-    "timeMonth": 673,
+    "timeMonth": 672,
     "timeYear": 678,
     "dailyMinutesDown": {}
   },
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 865,
-    "timeDay": 1090,
-    "timeWeek": 1162,
-    "timeMonth": 1064,
-    "timeYear": 865,
+    "time": 866,
+    "timeDay": 1075,
+    "timeWeek": 1124,
+    "timeMonth": 1069,
+    "timeYear": 866,
     "dailyMinutesDown": {
       "2021-02-07": 102
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 706,
-    "timeDay": 602,
-    "timeWeek": 652,
-    "timeMonth": 644,
-    "timeYear": 706,
+    "time": 708,
+    "timeDay": 813,
+    "timeWeek": 677,
+    "timeMonth": 651,
+    "timeYear": 708,
     "dailyMinutesDown": {}
   },
   {
@@ -110,9 +110,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
     "time": 660,
-    "timeDay": 588,
-    "timeWeek": 644,
-    "timeMonth": 642,
+    "timeDay": 602,
+    "timeWeek": 650,
+    "timeMonth": 641,
     "timeYear": 660,
     "dailyMinutesDown": {
       "2021-02-28": 159
