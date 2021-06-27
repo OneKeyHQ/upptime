@@ -27,7 +27,7 @@
     "url": "https://eth1.onekey.so",
     "icon": "https://favicons.githubusercontent.com/eth1.onekey.so",
     "slug": "eth1-onekey-so",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -74,7 +74,7 @@
     "time": 901,
     "timeDay": 1160,
     "timeWeek": 1121,
-    "timeMonth": 1113,
+    "timeMonth": 1114,
     "timeYear": 901,
     "dailyMinutesDown": {
       "2021-02-07": 102
