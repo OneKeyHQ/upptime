@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 1190,
-    "timeDay": 1534,
-    "timeWeek": 1495,
-    "timeMonth": 1300,
-    "timeYear": 1190,
+    "time": 1191,
+    "timeDay": 1496,
+    "timeWeek": 1530,
+    "timeMonth": 1311,
+    "timeYear": 1191,
     "dailyMinutesDown": {
       "2021-03-15": 25,
       "2021-02-28": 159,
@@ -34,9 +34,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 775,
-    "timeDay": 779,
-    "timeWeek": 775,
-    "timeMonth": 706,
+    "timeDay": 784,
+    "timeWeek": 784,
+    "timeMonth": 711,
     "timeYear": 775,
     "dailyMinutesDown": {
       "2021-03-18": 30
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 681,
-    "timeDay": 770,
-    "timeWeek": 754,
-    "timeMonth": 692,
-    "timeYear": 681,
+    "time": 682,
+    "timeDay": 786,
+    "timeWeek": 781,
+    "timeMonth": 698,
+    "timeYear": 682,
     "dailyMinutesDown": {}
   },
   {
@@ -72,9 +72,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 908,
-    "timeDay": 787,
-    "timeWeek": 780,
-    "timeMonth": 893,
+    "timeDay": 799,
+    "timeWeek": 792,
+    "timeMonth": 895,
     "timeYear": 908,
     "dailyMinutesDown": {
       "2021-02-07": 102
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 701,
-    "timeDay": 795,
-    "timeWeek": 772,
-    "timeMonth": 719,
-    "timeYear": 701,
+    "time": 702,
+    "timeDay": 828,
+    "timeWeek": 790,
+    "timeMonth": 723,
+    "timeYear": 702,
     "dailyMinutesDown": {}
   },
   {
@@ -109,11 +109,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 670,
-    "timeDay": 777,
+    "time": 671,
+    "timeDay": 806,
     "timeWeek": 777,
-    "timeMonth": 683,
-    "timeYear": 670,
+    "timeMonth": 688,
+    "timeYear": 671,
     "dailyMinutesDown": {
       "2021-02-28": 159
     }
