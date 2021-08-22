@@ -1,7 +1,7 @@
 url: https://bsc1.onekey.so/
-status: up
-code: 200
+status: down
+code: 502
 responseTime: 831
-lastUpdated: 2021-08-21T23:06:18.413Z
+lastUpdated: 2021-08-22T00:12:33.714Z
 startTime: Thu Jan 28 2021 06:49:15 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
